@@ -1,4 +1,5 @@
 Classe Ponto e Retangulo: Faça um programa completo utilizando funções e classes que:
+
 a.	Possua uma classe chamada Ponto, com os atributos x e y.
 b.	Possua uma classe chamada Retangulo, com os atributos largura e altura.
 c.	Possua uma função para imprimir os valores da classe Ponto
@@ -13,9 +14,10 @@ i.	Crie um menu para alterar os valores do retângulo e imprimir o centro deste 
 -------------------------------------------------------------------------------------------------------------------------------
 
 Point and Rectangle Class: Make a complete program using functions and classes that:
+
 a.  Have a class called Point, with attributes x and y.
 b.  Have a class called Rectangle, with width and height attributes.
-ç.  Have a function to print the values of the Point class
+c.  Have a function to print the values of the Point class
 d.  Have a function to find the center of a rectangle.
 e.  You must create some objects of the Rectangle class.
 f.  Each object must have a starting vertex, for example the lower left vertex of the rectangle, which must be an object of class Point.
