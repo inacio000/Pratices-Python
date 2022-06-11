@@ -15,4 +15,5 @@ Enhance the class from the previous exercise to add the method IncreaseSalary(Pe
  Example of use:
 
    harry=employee("Harry",25000)
+   
    harry.increaseSalary(10)
